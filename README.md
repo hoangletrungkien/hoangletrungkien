@@ -13,7 +13,7 @@ HCMUT — Electronics & Communication Engineering (Expected Jun 2027)
 | [6-Port USB Hub](link) | 4-Layer PCB | IP6505 ×6, IPC-2221 trace sizing, multi-channel |
 | [UC3843 Buck Converter](link) | 2-Layer PCB | Current-mode SMPS, gate drive design |
 | [ECG Monitor](link) | 1-Layer PCB | AD8232, mixed-signal, star grounding |
-| [STM32H745 Board]([https://github.com/hoangletrungkien/STM32F375_BOARD]) | 4-Layer PCB | eMMC HS400, isolated UART, dual-MCU |
+| [STM32H745 Board](https://github.com/hoangletrungkien/STM32F375_BOARD) | 4-Layer PCB | eMMC HS400, isolated UART, dual-MCU |
 | [Battery Tester](link) | 2-Layer PCB | INA219, MOSFET current sink, MQTT/Grafana |
 
 All projects include schematics, design decision notes, and 3D renders.
